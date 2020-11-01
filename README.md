@@ -21,6 +21,6 @@ step 6: open build directory in terminal and type the following command replacin
 step 7: after completion of above comand type the following in terminal in the same directory (build directory) <br>
         make <br>
         (beware this step took me about 4 hrs to complete dont let your PC sleep in between) <p>
-step 8: open the install directory in the terminal and type <br>
+step 8: in the same directory (objdir), in the terminal, type <br>
         make install <br>
         (note: This will add gcc in the install directory specified by "prefix" parameter in step 6) <br>
